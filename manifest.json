@@ -4,17 +4,41 @@
     "name": "Bedrock Perfected",
     "description": "Overhauling your Minecraft experience!",
     "uuid": "282e221e-786c-4777-beac-252a5b568de1",
-    "version": [1, 0, 0],
-    "min_engine_version": [1, 21, 0]
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
   },
   "modules": [
     {
       "type": "resources",
       "uuid": "bad6b2f8-1d94-4487-b4e0-598d97d4c834",
-      "version": [1, 0, 0]
+      "version": [
+        1,
+        0,
+        0
+      ]
     }
   ],
   "metadata": {
-    "authors": [ "Kujira" ]
-  }
+    "authors": [
+      "Kujira"
+    ]
+  },
+  "dependencies": [
+		{
+			"uuid": "14796fdf-56d3-4201-8626-4c0756952506",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
 }
