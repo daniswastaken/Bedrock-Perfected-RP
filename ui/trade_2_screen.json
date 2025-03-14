@@ -60,6 +60,7 @@
       }
     ]
   },
+  // Trading Helper - START
   "hover_button": {
     "modifications": [
       {
@@ -109,5 +110,17 @@
         }
       }
     ]
+  },
+  // Trading Helper - END
+  
+  // No How To Play - START
+  "top_half_stack_panel/how_to_play_button_holder": {
+    "modifications": [
+      {
+        "control_name": "how_to_play_button",
+        "operation": "remove"
+      }
+    ]
   }
+  // No How To Play - END
 }

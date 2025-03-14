@@ -60,6 +60,7 @@
       }
     ]
   },
+  // Trading Helper - START
   "toggle_content": {
     "type": "stack_panel",
     "size": [
@@ -213,5 +214,17 @@
         }
       }
     ]
+  },
+  // Trading Helper - END
+
+  // No How To Play - START
+  "trade_and_help_buttons/how_to_play_button_holder": {
+    "modifications": [
+      {
+        "control_name": "how_to_play_button",
+        "operation": "remove"
+      }
+    ]
   }
+  // No How To Play - END
 }
