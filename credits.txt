@@ -1,3 +1,5 @@
+Credits:
+Vanilla Tweaks: https://vanillatweaks.net/
+Bedrock Tweaks: https://bedrocktweaks.net/
 
-2.  Dark Mode Theme v1.1.2 by FeRaSs1454
-    https://www.curseforge.com/minecraft-bedrock/addons/dark-mode-theme
+Dark Mode Theme v1.1.2 by FeRaSs1454: https://www.curseforge.com/minecraft-bedrock/addons/dark-mode-theme
