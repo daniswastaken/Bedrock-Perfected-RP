@@ -25,7 +25,13 @@
                         "Texture.boss",
                         "Texture.bob",
                         "Texture.circuit",
-                        "Texture.smelter"
+                        "Texture.smelter",
+                        "Texture.loser",
+                        "Texture.mobster",
+                        "Texture.broker",
+                        "Texture.bloodshot",
+                        "Texture.vibe",
+                        "Texture.smirk"
                     ]
                 }
             },

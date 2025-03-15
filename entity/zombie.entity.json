@@ -30,7 +30,13 @@
                 "bob": "textures/entity/zombie/bob",
                 "circuit": "textures/entity/zombie/circuit",
                 
-                "smelter": "textures/entity/zombie/smelter"
+                "smelter": "textures/entity/zombie/smelter",
+                "loser": "textures/entity/zombie/loser",
+                "mobster": "textures/entity/zombie/mobster",
+                "broker": "textures/entity/zombie/broker",
+                "bloodshot": "textures/entity/zombie/bloodshot",
+                "vibe": "textures/entity/zombie/vibe",
+                "smirk": "textures/entity/zombie/smirk"
             },
             "geometry": {
                 "default": "geometry.bt_zombie"
@@ -40,7 +46,7 @@
             ],
             "scripts": {
                 "initialize": [
-                    "v.zombie_skin = math.random_integer(0, 22);"
+                    "v.zombie_skin = math.random_integer(0, 29);"
                 ]
             }
         }
