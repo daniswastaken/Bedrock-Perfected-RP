@@ -4,3 +4,5 @@
 4. 3D Sun & Moon
 5. ALL Terrain Sides
 6. Golden Savanna
+7. Whiter Snow
+8. No Vignette
