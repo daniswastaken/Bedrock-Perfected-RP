@@ -1,0 +1,35 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:zombie",
+            "min_engine_version": "1.8.0",
+            "materials": {
+                "default": "zombie"
+            },
+            "textures": {
+                "steve": "textures/entity/zombie/steve", 
+                "alex": "textures/entity/zombie/alex",
+                "ari": "textures/entity/zombie/ari",
+                "efe": "textures/entity/zombie/efe",
+                "kai": "textures/entity/zombie/kai",
+                "makena": "textures/entity/zombie/makena",
+                "noor": "textures/entity/zombie/noor",
+                "sunny": "textures/entity/zombie/sunny",
+                "zuri": "textures/entity/zombie/zuri"
+                
+            },
+            "geometry": {
+                "default": "geometry.bt_zombie"
+            },
+            "render_controllers": [
+                "controller.render.bt.zombie"
+            ],
+            "scripts": {
+                "initialize": [
+                    "v.zombie_skin = math.random_integer(0, 9);"
+                ]
+            }
+        }
+    }
+}
