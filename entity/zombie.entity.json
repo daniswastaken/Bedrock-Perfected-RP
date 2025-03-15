@@ -8,7 +8,7 @@
                 "default": "zombie"
             },
             "textures": {
-                "steve": "textures/entity/zombie/steve", 
+                "steve": "textures/entity/zombie/steve",
                 "alex": "textures/entity/zombie/alex",
                 "ari": "textures/entity/zombie/ari",
                 "efe": "textures/entity/zombie/efe",
@@ -16,8 +16,21 @@
                 "makena": "textures/entity/zombie/makena",
                 "noor": "textures/entity/zombie/noor",
                 "sunny": "textures/entity/zombie/sunny",
-                "zuri": "textures/entity/zombie/zuri"
+                "zuri": "textures/entity/zombie/zuri",
+                "doc": "textures/entity/zombie/doc",
+
+                "captain": "textures/entity/zombie/captain",
+                "malika": "textures/entity/zombie/malika",
+                "nathan": "textures/entity/zombie/nathan",
+                "grimble": "textures/entity/zombie/grimble",
+                "shade": "textures/entity/zombie/shade",
+                "president": "textures/entity/zombie/president",
+                "graves": "textures/entity/zombie/graves",
+                "boss": "textures/entity/zombie/boss",
+                "bob": "textures/entity/zombie/bob",
+                "circuit": "textures/entity/zombie/circuit",
                 
+                "smelter": "textures/entity/zombie/smelter"
             },
             "geometry": {
                 "default": "geometry.bt_zombie"
@@ -27,7 +40,7 @@
             ],
             "scripts": {
                 "initialize": [
-                    "v.zombie_skin = math.random_integer(0, 9);"
+                    "v.zombie_skin = math.random_integer(0, 22);"
                 ]
             }
         }

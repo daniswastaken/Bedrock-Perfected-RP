@@ -1,1 +1,43 @@
-{"format_version":"1.10.0","render_controllers":{"controller.render.bt.zombie":{"arrays":{"textures":{"Array.skin":["Texture.steve","Texture.alex","Texture.ari","Texture.efe","Texture.kai","Texture.makena","Texture.noor","Texture.sunny","Texture.zuri"]}},"geometry":"Geometry.default","materials":[{"*":"Material.default"}],"textures":["Array.skin[v.zombie_skin]"]}}}
+{
+    "format_version": "1.10.0",
+    "render_controllers": {
+        "controller.render.bt.zombie": {
+            "arrays": {
+                "textures": {
+                    "Array.skin": [
+                        "Texture.steve",
+                        "Texture.alex",
+                        "Texture.ari",
+                        "Texture.efe",
+                        "Texture.kai",
+                        "Texture.makena",
+                        "Texture.noor",
+                        "Texture.sunny",
+                        "Texture.zuri",
+                        "Texture.doc",
+                        "Texture.captain",
+                        "Texture.malika",
+                        "Texture.nathan",
+                        "Texture.grimble",
+                        "Texture.shade",
+                        "Texture.president",
+                        "Texture.graves",
+                        "Texture.boss",
+                        "Texture.bob",
+                        "Texture.circuit",
+                        "Texture.smelter"
+                    ]
+                }
+            },
+            "geometry": "Geometry.default",
+            "materials": [
+                {
+                    "*": "Material.default"
+                }
+            ],
+            "textures": [
+                "Array.skin[v.zombie_skin]"
+            ]
+        }
+    }
+}
