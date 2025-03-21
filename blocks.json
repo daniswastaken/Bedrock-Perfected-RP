@@ -90,5 +90,40 @@
             "side": "soul_campfire_log_lit",
             "up": "soul_campfire_fire"
         }
+    },
+    "sticky_piston": {
+        "carried_textures": {
+            "down": "piston_bottom",
+            "side": "piston_side_sticky",
+            "up": "piston_top_sticky"
+        },
+        "sound": "stone",
+        "textures": {
+            "down": "piston_bottom",
+            "side": "piston_side_sticky",
+            "up": "piston_top"
+        }
+    },
+    "hopper": {
+        "sound": "metal",
+        "textures": {
+            "down": "hopper_inside",
+            "east": "hopper_outside_east",
+            "north": "hopper_outside_north",
+            "south": "hopper_outside_south",
+            "up": "hopper_top",
+            "west": "hopper_outside_west"
+        }
+    },
+    "lodestone": {
+        "sound": "lodestone",
+        "textures": {
+            "down": "lodestone_top",
+            "east": "lodestone_east",
+            "north": "lodestone_north",
+            "south": "lodestone_south",
+            "up": "lodestone_top",
+            "west": "lodestone_west"
+        }
     }
 }
