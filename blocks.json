@@ -82,5 +82,13 @@
             "up": "warped_nylium_top",
             "west": "warped_nylium_top"
         }
+    },
+    "soul_campfire": {
+        "sound": "wood",
+        "textures": {
+            "down": "soul_campfire_log",
+            "side": "soul_campfire_log_lit",
+            "up": "soul_campfire_fire"
+        }
     }
 }
