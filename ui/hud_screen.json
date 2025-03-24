@@ -2,5 +2,30 @@
     "namespace": "hud",
     "vignette_renderer": {
         "renderer": "flying_item_renderer"
+    },
+    "hud_text": {
+        "type": "label",
+        "text": "Bedrock Perfected Indev",
+        "anchor_from": "bottom_left",
+        "anchor_to": "bottom_left",
+        "color": [0.407, 0.427, 0.462],
+        "alpha": 0.5,
+        "offset": [
+            6,  // x
+            -4   // y
+        ]
+    },
+    "root_panel": {
+        "modifications": [
+            {
+                "array_name": "controls",
+                "operation": "insert_front",
+                "value": [
+                    {
+                        "hud_text@hud.hud_text": {}
+                    }
+                ]
+            }
+        ]
     }
 }
