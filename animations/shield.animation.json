@@ -23,8 +23,8 @@
 			"bones": {
 				"shield": {
 					"position": [
-						-14.0,
-						18,
+						-14.0,	// x
+						17.5,	// y
 						"(query.get_equipped_item_name == 'bow') && (query.main_hand_item_use_duration > 0.0f) ? -25.0 : 2.0"
 					],
 					"rotation": [
