@@ -4,3 +4,4 @@ Bedrock Tweaks: https://bedrocktweaks.net/
 
 Dark Mode Theme v1.1.2 by FeRaSs1454: https://www.curseforge.com/minecraft-bedrock/addons/dark-mode-theme
 Build Tutorial & Inspirations by ItsMarloe: https://www.youtube.com/@ItsMarloe
+Coordinates on Actionbar command blocks tutorial by fantasy: https://youtu.be/P_tBG1lFlgs?si=BV_pc2jeykIaDKEf
