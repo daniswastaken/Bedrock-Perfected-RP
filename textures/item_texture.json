@@ -1,5 +1,8 @@
 {
 	"texture_data": {
+		"coordinates": {
+			"textures": "textures/items/coordinates.png"
+		},
 		"coordinates_compass": {
 			"textures": "textures/items/coordinates_compass.png"
 		}

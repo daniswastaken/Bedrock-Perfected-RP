@@ -74,4 +74,4 @@ tile.warped_hyphae.name=Warped Wood
 tile.stripped_crimson_hyphae.name=Stripped Crimson Wood
 tile.stripped_warped_hyphae.name=Stripped Warped Wood
 
-item.bedrock_perfected:coordinates_compass=Coordinates Compass
+item.bedrock_perfected:coordinates=Coordinates
