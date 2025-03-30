@@ -1,5 +1,8 @@
 {
 	"texture_data": {
+		"eye_of_sheep": {
+			"textures": "textures/items/eye_of_sheep.png"
+		},
 		"eye_of_cow": {
 			"textures": "textures/items/eye_of_cow.png"
 		},
