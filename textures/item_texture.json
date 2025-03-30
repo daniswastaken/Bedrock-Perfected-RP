@@ -1,5 +1,11 @@
 {
 	"texture_data": {
+		"eye_of_warden": {
+			"textures": "textures/items/eye_of_warden.png"
+		},
+		"eye_of_wither": {
+			"textures": "textures/items/eye_of_wither.png"
+		},
 		"coordinates": {
 			"textures": "textures/items/coordinates.png"
 		},
