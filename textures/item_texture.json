@@ -1,5 +1,8 @@
 {
 	"texture_data": {
+		"eye_of_elder": {
+			"textures": "textures/items/eye_of_elder.png"
+		},
 		"eye_of_warden": {
 			"textures": "textures/items/eye_of_warden.png"
 		},
