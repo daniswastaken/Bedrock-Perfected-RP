@@ -1,5 +1,8 @@
 {
 	"texture_data": {
+		"eye_of_pig": {
+			"textures": "textures/items/eye_of_pig.png"
+		},
 		"eye_of_sheep": {
 			"textures": "textures/items/eye_of_sheep.png"
 		},
@@ -17,9 +20,6 @@
 		},
 		"coordinates": {
 			"textures": "textures/items/coordinates.png"
-		},
-		"coordinates_compass": {
-			"textures": "textures/items/coordinates_compass.png"
 		}
 	}
 }
